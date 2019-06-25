@@ -1,1 +1,1 @@
-#Una historia de usuario es la representacion de todos los requerimientos
+#Una historia de usuario es la representacion de todos los requerimientos que desea implementar el usuario.
