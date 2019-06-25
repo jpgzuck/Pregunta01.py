@@ -1,1 +1,1 @@
-#Una historia de usuario es cuando se guardan los cambios requeridos en un archivo de github con todos los cambios
+#Una historia de usuario es la representacion de todos los requerimientos
